@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Entorno y secretos
+.env
+
+# Datos locales generados
+*.db
+*.sqlite3
+peliculas.json
+out.json
+test.json
+*.log
+
+# Extras de prueba
+test_*.html

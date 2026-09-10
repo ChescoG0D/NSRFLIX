@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+aiohttp
+beautifulsoup4
+psycopg2-binary
+Brotli
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+google-auth
+requests
+python-multipart
+apscheduler==3.10.4
