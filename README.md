@@ -123,15 +123,6 @@ En producción la API arranca con `uvicorn` y programa el scrapeo diario automá
 | `GOOGLE_CLIENT_ID` | Client ID de Google OAuth (opcional) |
 | `DATABASE_URL` | Cadena de conexión Postgres |
 
-## 🧰 Scripts auxiliares
-
-| Script | Uso |
-|--------|-----|
-| `play.py` | Reproductor CLI de prueba: busca en la BD, resuelve servidores y abre el vídeo |
-| `test_scrape.py` | Prueba rápida de un scraper individual |
-| `delete_fake_series.py` | Elimina series falsas detectadas en cinehdplus |
-| `fetch_html.py` | Descarga el HTML de una página para depurar parsers |
-
 ---
 
 <div align="center">
